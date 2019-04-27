@@ -6,7 +6,7 @@ Arrow functions are quite a beauty in javascript, which allows programers to tak
 
 # Syntax
 As the name defines this functions are defined by a symbol of arrow not this -> but this => "equal too followed by a greaterthan symbol"
-```
+```javascript
  //arrow  functions without arguments.
  ()=>{ /*Statements*/ }
  
