@@ -7,7 +7,7 @@ Arrow functions are quite a beauty in javascript, which allows programers to tak
 # Sample Example
 
 ```javascript
-/*Without using a Arrow Key Word*/             | /*With using a Arrow function      
+//Without using a Arrow Key Word*/             | //With using a Arrow function      
                                                |
 var helloworld = function(){                   | var helloworld = ()=>{console.log("Hello world")}
      console.log("Hello world");               | helloworld();
