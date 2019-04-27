@@ -17,8 +17,9 @@ helloworld();
 var helloworld = () => { console.log("Hello world"); }
 helloworld();
 ```
-Both the codes give the same output Hello world but you can see the difference in there syntax.
-i feel it's a little cute and readable and easy to use over a regular functions.
+Both the codes give the same output "Hello world", But you can see the difference in there syntax.
+
+i feel it's a little cute and readable and easy to use, over a regular functions.
 
 And for a single statement functions like the above code can be shortened to
 
