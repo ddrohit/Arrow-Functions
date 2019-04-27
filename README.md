@@ -16,11 +16,15 @@ As the name defines this functions are defined by a symbol of arrow not this -> 
  //arrow functions with arguments
  (Argument1,Argument2,....) => { /*Statements*/ }
  
- //arrow function whith a single argument and single statement can be written as
+ //arrow function with a single argument and single statement can be written as
  Argument => /*Statement*/
  
- //arrow function whith a single argument and many statements can be written as
+ //arrow function with a single argument and many statements can be written as
  Argument => { /*Statements*/ }
+ 
+ //arrow function while assiging a variable
+ var (or) let (or) const variablename = (Arguments) =>{ /*Statements*/ }
+ usage variablename();
  
 ```
 
