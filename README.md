@@ -24,8 +24,17 @@ As the name defines this functions are defined by a symbol of arrow not this -> 
  
  //arrow function while assiging a variable
  var (or) let (or) const variablename = (Arguments) =>{ /*Statements*/ }
- usage variablename();
+ variablename();
  
+ //a normal return to a arrow function
+ ()=>{return(value);}
+ 
+ //for a single statement with a return
+ ()=>/*value (or) expression*/
+ 
+ //sample
+ addten= (a) => a+10
+ addten(40) this returns 50
 ```
 
 # Sample Example
