@@ -8,17 +8,24 @@ Arrow functions are quite a beauty in javascript, which allows programers to tak
 As the name defines this functions are defined by a symbol of arrow not this -> but this => "equal too followed by a greaterthan symbol"
 ```javascript
  //arrow  functions without arguments.
+ 
  ()=>{ /*Statements*/ }
  
  //arrow functions with a single statement
+ 
  () => /*Statement*/
  
  //arrow functions with arguments
+ 
  (Argument1,Argument2,....) => { /*Statements*/ }
  
- //arrow function whith a single argument can be written as
- Argument => Statement
+ //arrow function whith a single argument and single statement can be written as
  
+ Argument => /*Statement*/
+ 
+ //arrow function whith a single argument and many statements can be written as
+ 
+ Argument => { /*Statements*/ }
  
 ```
 
