@@ -34,10 +34,16 @@ As the name defines this functions are defined by a symbol of arrow not this -> 
  
  //sample
  addten= (a) => a+10
- addten(40) this returns 50
+ addten(40) //this returns 50
+ 
+ //more complex Example which return a arrow function is. 
+ hello=()=>value=>value=>value
+ hello()()("hello world")
+ 
+ //Output Would be hello world
 ```
 
-# Sample Example
+# Usecase Example
 ```javascript
 //Without using a Arrow Key Word                                   
                                                               
